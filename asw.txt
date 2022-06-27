@@ -1,3 +1,6 @@
 this is initial message
 this is the second commit
 
+this is for a new merge
+
+
